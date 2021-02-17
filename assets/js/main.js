@@ -124,7 +124,7 @@
     responsive: {
       0: {
         items: 1
-      },
+      }
     }
   });
 
